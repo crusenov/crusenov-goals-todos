@@ -1,0 +1,2 @@
+(this["webpackJsonpcrusenov-goals-todos"]=this["webpackJsonpcrusenov-goals-todos"]||[]).push([[0],{3:function(e,n,o){e.exports=o(9)},8:function(e,n,o){},9:function(e,n,o){"use strict";o.r(n);var t=o(0),s=o.n(t),r=o(2),a=o.n(r);o(8);var c=function(){return s.a.createElement("div",{className:"App"},"Hello World")};a.a.render(s.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.06d90c31.chunk.js.map
